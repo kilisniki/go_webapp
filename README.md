@@ -1,8 +1,9 @@
 # GOLANG WebApp
 Example of application with db (postgresql) connection and simple endpoint.
 
-## Installation
+## Startup
 - `docker-compose up -d`
+- open `http://localhost:8080/`
 
 ## Modification
 - install dependencies locally: go
